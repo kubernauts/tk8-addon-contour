@@ -1,4 +1,4 @@
-# Derived from ./contour
+# Derived from ./contour-config
 apiVersion: v1
 kind: Namespace
 metadata:
